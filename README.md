@@ -1,11 +1,11 @@
 # css
-1.font styling
-2.text styling
-3.background
-4.selector
-5.pseudo class
-6.inheritance
-7.specificity
+1. font styling
+2. text styling
+4. background
+5. selector
+6. pseudo class
+7. inheritance
+8. specificity
 
 1. font styling
 •font-family :mengatur jenis font yang digunakan 
@@ -23,3 +23,16 @@
 •text-transform :mengubah jenis huruf menjadi huruf besar, kecil/kapital
 •letter-spacing :mengatur spasi antar huruf
 •word-spacing   :mengatur spasi antar kata
+
+3. background
+•background-color   :mengatur warna pada background
+•background-image   :mengatur gambar yang akan digunakan pada backgroun
+•background-position:mengatur posisi gambar pada background
+•background-repeat  :mengatur jenis pengulangan pada background
+
+5. selector
+
+
+7. pseudo class
+8. inheritance
+9. specificity
