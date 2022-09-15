@@ -31,8 +31,12 @@
 •background-repeat  :mengatur jenis pengulangan pada background
 
 5. selector
-
-
-7. pseudo class
-8. inheritance
-9. specificity
+•id
+•class
+6. pseudo class
+•link   :style default pada sebuah link
+•hover  :style ketika kursor mouse berada diatas link
+•active :style ketika sebuah link di klik
+•visited:style ketika link sudah pernah dibuka
+9. inheritance
+10. specificity
