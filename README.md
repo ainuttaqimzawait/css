@@ -30,13 +30,14 @@
 •background-position:mengatur posisi gambar pada background
 •background-repeat  :mengatur jenis pengulangan pada background
 
-5. selector
+4. selector
 •id
 •class
-6. pseudo class
+5. pseudo class
 •link   :style default pada sebuah link
 •hover  :style ketika kursor mouse berada diatas link
 •active :style ketika sebuah link di klik
 •visited:style ketika link sudah pernah dibuka
-9. inheritance
+6. inheritance
+pewarisan
 10. specificity
